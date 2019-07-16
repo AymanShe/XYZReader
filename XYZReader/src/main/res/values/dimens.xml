@@ -9,5 +9,7 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="fab_height">56dp</dimen>
     <dimen name="fab_width">56dp</dimen>
-
+    <dimen name="article_detail_height">250dp</dimen>
+    <dimen name="photo_background_protection_height">112dp</dimen>
+    <dimen name="photo_container_elevation">2dp</dimen>
 </resources>
